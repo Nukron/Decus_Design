@@ -1,0 +1,17 @@
+{
+  "name": "decus-design-front",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "gridsome": "^0.7.0",
+    "vuetify": "^2.4.5"
+  },
+  "devDependencies": {
+    "webpack-node-externals": "^2.5.2"
+  }
+}
